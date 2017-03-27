@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{91D4DA14-4100-D956-1FB2-DCBDCC0219A6}") = "FirstPerson3dTest", "Assembly-CSharp.csproj", "{B5122846-99CF-2C26-FCEF-1ECC11CB4089}"
+EndProject
+Project("{91D4DA14-4100-D956-1FB2-DCBDCC0219A6}") = "FirstPerson3dTest", "Assembly-UnityScript.unityproj", "{824A70FF-539F-A034-1AE8-965ACC70DB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5122846-99CF-2C26-FCEF-1ECC11CB4089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5122846-99CF-2C26-FCEF-1ECC11CB4089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5122846-99CF-2C26-FCEF-1ECC11CB4089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5122846-99CF-2C26-FCEF-1ECC11CB4089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824A70FF-539F-A034-1AE8-965ACC70DB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824A70FF-539F-A034-1AE8-965ACC70DB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824A70FF-539F-A034-1AE8-965ACC70DB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824A70FF-539F-A034-1AE8-965ACC70DB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
