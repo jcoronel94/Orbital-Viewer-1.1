@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6D095282-AE60-5935-A396-786D0DD35C6D}") = "Orbital Viewer 1.1 - MANY CHANGES", "Assembly-CSharp.csproj", "{9607F358-B5EB-7AAD-ED2D-E5C3A05CC895}"
+EndProject
+Project("{6D095282-AE60-5935-A396-786D0DD35C6D}") = "Orbital Viewer 1.1 - MANY CHANGES", "Assembly-UnityScript.unityproj", "{CCDFB317-DBD4-D415-9994-7EB461ED06F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9607F358-B5EB-7AAD-ED2D-E5C3A05CC895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9607F358-B5EB-7AAD-ED2D-E5C3A05CC895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9607F358-B5EB-7AAD-ED2D-E5C3A05CC895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9607F358-B5EB-7AAD-ED2D-E5C3A05CC895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDFB317-DBD4-D415-9994-7EB461ED06F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDFB317-DBD4-D415-9994-7EB461ED06F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDFB317-DBD4-D415-9994-7EB461ED06F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDFB317-DBD4-D415-9994-7EB461ED06F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
